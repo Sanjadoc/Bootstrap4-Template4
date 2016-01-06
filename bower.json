@@ -1,0 +1,21 @@
+{
+  "name": "Bootstrap4-Template4",
+  "homepage": "https://github.com/Sanjadoc/Bootstrap4-Template4",
+  "authors": [
+    "sanjadoc <sanja_doc@ukr.net>"
+  ],
+  "description": "Template Boostrap4 alpha2",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "Boostrap4 alpha2",
+    "JS",
+    "CSS",
+    "HTML5",
+    "Bower"
+  ],
+  "license": "GNU Lesser General Public License v3.0",
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
