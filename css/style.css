@@ -68,4 +68,38 @@ img {
     text-transform: uppercase;
 }
 
+.feature-content {
+    padding: 8rem 0;
+    overflow: hidden;
+    color: black;
+}
+
+.feature-content p{
+    color: #6c6f73;
+    text-transform: none;
+    font-weight: normal;
+}
+
+.feature-content img {
+    margin-bottom: -8rem;
+}
+
+.feature-dark {
+    background: #262F36;
+    color: white;
+}
+
+.feature-dark h2, h6{
+    color: white;
+}
+
+/* Media Querys */
+
+@media screen and (min-width: 991px) {
+    .feature-content {
+        display: flex;
+        align-item: center;
+    }
+}
+
 
