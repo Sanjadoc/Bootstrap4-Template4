@@ -45,6 +45,7 @@ img {
     margin: 1rem 0 0;
 }
 
+/* Stage */
 #stage {
     background: url('../img/stage.jpg') top center no-repeat;
     background-size: cover;
@@ -68,6 +69,11 @@ img {
     text-transform: uppercase;
 }
 
+/* Feature */
+#feature-one h2 {
+    color: #333;
+}
+
 .feature-content {
     padding: 8rem 0;
     overflow: hidden;
@@ -89,9 +95,16 @@ img {
     color: white;
 }
 
-.feature-dark h2, h6{
+.feature-dark h6, h2 {
     color: white;
 }
+
+#feature-three h2 {
+    color: #333;
+}
+
+
+
 
 /* Media Querys */
 
