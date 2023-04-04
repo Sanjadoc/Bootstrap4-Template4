@@ -5,12 +5,11 @@
   "keywords": [
     "Bootstrap4"
   ],
-  "dependencies": {
+  "devDependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.0"
   },
-  "devDependencies": {},
   "author": "Oleksandr G.",
   "license": "ISC"
 }
